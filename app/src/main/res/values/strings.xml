@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">
+
+    </string>
+
+    <string-array name="times">
+        <item>Palmeiras</item>
+        <item>Flamengo</item>
+        <item>Santos</item>
+        <item>São Paulo</item>
+        <item>Fluminence</item>
+    </string-array>
+</resources>
